@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Mark
+# Hi there 👋 I'm Mark Aidel Ray D. Olaco
 
 Student developer building **VocaLink**, my capstone project. I work on backend, security, and mobile/web apps, and I retrain and test models along the way.
 
